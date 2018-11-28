@@ -46,7 +46,7 @@ def triangle(a,b):
     c=(a_squared+b_squared)**0.5
     return c
 
-main()
+
 ###############################################################################
 # TODO: 4a.  Define a function immediately below this _TODO_.
 #   It takes two arguments:
